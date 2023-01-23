@@ -4,3 +4,6 @@
 
 * Qué es git?
 * Comandos locales
+  - init
+  - add
+  - commit: -m, -am
