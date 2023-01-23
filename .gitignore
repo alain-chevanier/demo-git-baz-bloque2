@@ -1,1 +1,4 @@
 build
+.DS_STORE
+# Esta regla es para indicar que no quiero incluir los archivos compilados
+src/**/*.compiled
