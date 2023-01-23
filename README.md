@@ -7,3 +7,4 @@
   - init
   - add
   - commit: -m, -am
+  - branch: checkout, switch
